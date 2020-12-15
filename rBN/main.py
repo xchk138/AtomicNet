@@ -17,7 +17,8 @@ if __name__ == '__main__':
     profiler.profile(bn_mnist, data_mnist, 'BatchNorm')
 
     # for model with rBN
-    rbn_mnist = dataset.VGG_C4F2_rBN()
-    train(rbn_mnist, data_mnist, 'mnist_rbn.pth')
-    test(rbn_mnist, data_mnist, 'mnist_rbn.pth')
-    profile(bn_mnist, data_mnist, 'mnist_rbn.pth')
+    rbn_mnist = model.VGG_C4F2_rBN()
+    utils.train(rbn_mnist, data_mnist, 'mnist_rbn.pth')
+    utils.test(rbn_mnist, data_mnist, 'mnist_rbn.pth')
+    profile(rbn_mnist, data_mnist, 'mnist_rbn.pth', 'BatchNorm')
+
