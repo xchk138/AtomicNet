@@ -6,3 +6,8 @@ import torch
 import cv2
 
 def VGG_C4F2_BN():
+    pass
+
+
+def VGG_C4F2_rBN():
+    pass
