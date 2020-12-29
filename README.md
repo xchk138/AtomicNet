@@ -1,5 +1,5 @@
 # DGAI
-###Democratic General Artificial Intelligence
+**Democratic General Artificial Intelligence**
 *************
 
 As the project name indicates, I hope this project
