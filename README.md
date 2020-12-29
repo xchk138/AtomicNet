@@ -1,7 +1,6 @@
 # DGAI
-<font color='red'>
-Democratic General Artificial Intelligence
-</font>
+###Democratic General Artificial Intelligence
+*************
 
 As the project name indicates, I hope this project
 can help people without enough computing power,  
