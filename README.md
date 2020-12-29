@@ -1,5 +1,7 @@
 # DGAI
+<font color='red'>
 Democratic General Artificial Intelligence
+</font>
 
 As the project name indicates, I hope this project
 can help people without enough computing power,  
@@ -11,12 +13,12 @@ everyone's involvement in AI development, not just
 the few giant companies in the Silicon Valley.
 However, we are definitely limited by the shortage of 
 computation resources and big data. We can't train our
-big models as fast as possible, and either cannot even 
-get enough data for training. 
+big models as fast as possible, and neither cannot 
+get enough data for training.
 
 The world best AI models, are trained with thousands of
 GPU or TPU, and running out of huge electricity power
-which costs millions dollars that even a start-up
+which costs over 10 million dollars that even a start-up
 cannot afford.
 
 Those best known models are trained with giant volume of
