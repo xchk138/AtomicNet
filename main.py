@@ -8,11 +8,10 @@ def CoroPredictor(model_path):
     # loading the network with weights
     model = AtomicNet(weighted_graph = model_path)
     # check if model is good
-
-    # run a empty vector of input to reset network
-
-    # switch to another coroutine 
-
+    if not model.ok():
+        raise AssertionError('model not okay yet!')
+    # prepare the dataset
+    
 
 def DemoAtomicNet(input_image_path):
     pass
