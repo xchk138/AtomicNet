@@ -8,7 +8,11 @@ To-do list:
 
 
 For matrix multiplication,
+
 $$
-A = [a_{ij}]_{r\times s}
-B = [a_{ij}]_{r\times s}
+f_{NOT}(x) = 1 - x
+$$
+
+$$
+f_{AND}(x,y) = x \times y
 $$
