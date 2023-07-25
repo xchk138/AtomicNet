@@ -1,5 +1,5 @@
 # AtomicNet
-**Net built with logic Units of AND, OR, NOT, XOR**
+**Net built with logic Units of AND, NOT**
 *************
 To-do list:
 1. replace multi-adds ops in convolution and test its performance;
